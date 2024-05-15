@@ -1,0 +1,6 @@
+C:\Users\osaka\documents\visual studio 2017\Projects\DerDatenwischer\DerDatenwischer\bin\Release\DerDatenwischer.exe.config
+C:\Users\osaka\documents\visual studio 2017\Projects\DerDatenwischer\DerDatenwischer\bin\Release\DerDatenwischer.exe
+C:\Users\osaka\documents\visual studio 2017\Projects\DerDatenwischer\DerDatenwischer\bin\Release\DerDatenwischer.pdb
+C:\Users\osaka\documents\visual studio 2017\Projects\DerDatenwischer\DerDatenwischer\obj\Release\DerDatenwischer.csprojResolveAssemblyReference.cache
+C:\Users\osaka\documents\visual studio 2017\Projects\DerDatenwischer\DerDatenwischer\obj\Release\DerDatenwischer.exe
+C:\Users\osaka\documents\visual studio 2017\Projects\DerDatenwischer\DerDatenwischer\obj\Release\DerDatenwischer.pdb
